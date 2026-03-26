@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="greeting.svg" alt="Hey, I'm Pablo Dias 👋" width="600" />
+  <a href="https://github.com/pndias"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Pablo+Dias+%F0%9F%91%8B" alt="Hey, I'm Pablo Dias 👋" /></a>
 </p>
 
 <p align="center">
