@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm Pablo Dias 👋</h1>
+<p align="center">
+  <img src="greeting.svg" alt="Hey, I'm Pablo Dias 👋" width="600" />
+</p>
 
 <p align="center">
   <strong>Full Stack Developer · DevOps · AI Systems Builder</strong><br/>
