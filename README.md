@@ -14,7 +14,7 @@
 
 I build end-to-end systems — from backend APIs and AI agents to interactive frontends and containerized infrastructure. Self-taught developer with a strong bias toward shipping real products and solving real problems.
 
-Currently studying **Systems Analysis & Development** at IFRN (Instituto Federal do Rio Grande do Norte).
+Currently working at [polimatia.io](https://polimatia.io) and studying **Systems Analysis & Development** at IFRN (Instituto Federal do Rio Grande do Norte).
 
 ## 🛠️ Tech Stack
 
@@ -47,21 +47,7 @@ Geopolitical monitoring platform with AI-powered OSINT analysis and interactive 
 - **AI Agents:** CrewAI + LangChain orchestrating OSINT and extraction agents with local Ollama
 - **Infra:** 7 Docker containers, Docker Swarm with replicas and rolling updates, Nginx reverse proxy
 
-### [René — WhatsApp AI Concierge](https://github.com/pndias/rene_zapAgent) 🤖
-Production AI chatbot for WhatsApp with multi-model support, audio capabilities, and automated lead prospecting.
-- **Stack:** TypeScript + Baileys (WebSocket) + LangChain + SQLite
-- **AI:** Claude 3.5 Haiku & OpenAI o4-mini with tool calling
-- **Features:** Whisper transcription, TTS, human handoff system, adaptive B2B pitch by business type, token tracking
-- **CI/CD:** GitHub Actions → AWS EC2 via SSH → PM2
 
-### [SDR Agent](https://github.com/pndias/sdr-agent) 📊
-Autonomous lead collection and distribution agent with Hexagonal Architecture.
-- Web scraping (httpx + BeautifulSoup) → SQLite deduplication → HTTP dispatch to WhatsApp chatbot
-- Clean Ports & Adapters: abstract interfaces for scraper, repository, and messenger
-- Scheduled cycles with APScheduler
-
-### [n8n Agent Docker](https://github.com/pndias/n8n-agent-docker) ⚙️
-Local n8n workflow automation setup with custom Docker build for AI agent workflows.
 
 ## 🌐 Languages
 
