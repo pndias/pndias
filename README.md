@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer · DevOps · AI Systems Builder</strong><br/>
+  <strong>Full Stack Developer · DevOps · AI Systems Builder · 🧙‍♂️ El Brujo Tapuya</strong><br/>
   Natal/RN, Brazil 🇧🇷
 </p>
 
@@ -24,7 +24,7 @@ Currently working at [polimatia.io](https://polimatia.io) and studying **Systems
 
 **Backend:** FastAPI · Pydantic V2 · SQLAlchemy · LangChain · CrewAI · Node.js · Express · Baileys
 
-**Frontend:** React · TypeScript · Vite · Leaflet.js
+**Frontend:** React · Vue 3 · TypeScript · Vite · Leaflet.js
 
 **AI/ML:** OpenAI · Anthropic Claude · Google Gemini · Whisper · TTS · Ollama · LangChain.js · Tool Calling
 
@@ -41,6 +41,15 @@ Professional open-source mastering plugin with a 5-stage signal chain built with
 - Resonance Suppressor → Linear Phase EQ (FFT convolution) → Bus Compressor → Soft Clipper (4× oversampling) → True Peak Limiter
 - Inspired by Soothe2, Pro-Q 4, SSL Bus Comp, StandardCLIP, and Pro-L 2
 - Cross-platform: macOS (Universal Binary) + Windows
+
+### [Nikito's Ledger](https://github.com/pndias/nikitos-ledger) 🧙‍♂️
+Automated D&D 5.5 character sheet generator — describe a character in plain text, get a full sheet instantly.
+- **Prompt-to-Sheet:** Natural language → complete 5.5e character via Gemini AI
+- **NPC Generator:** DM tool with roleplaying notes, secret motivations, and plot hooks
+- **Markdown Import:** Paste structured MD from ChatGPT/Claude to import characters without API calls
+- **Image Support:** Attach art → becomes portrait on sheet and PDF
+- **Stack:** Vue 3 + Pinia + Tailwind CSS 4 + Gemini Flash 2.5 + pdf-lib
+- BG3-inspired dark UI with Forgotten Realms parchment aesthetic
 
 ### [GeoSentry](https://github.com/pndias/geosentry) 🌍
 Geopolitical monitoring platform with AI-powered OSINT analysis and interactive geospatial dashboard.
