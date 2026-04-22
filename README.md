@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer · DevOps · AI Systems Builder · 🧙‍♂️ El Brujo Tapuya</strong><br/>
+  <strong>Full Stack Developer · DevOps · AI Systems Builder · 🧙♂️ El Brujo Tapuya</strong><br/>
   Natal/RN, Brazil 🇧🇷
 </p>
 
@@ -42,7 +42,7 @@ Professional open-source mastering plugin with a 5-stage signal chain built with
 - Inspired by Soothe2, Pro-Q 4, SSL Bus Comp, StandardCLIP, and Pro-L 2
 - Cross-platform: macOS (Universal Binary) + Windows
 
-### [Nikito's Ledger](https://github.com/pndias/nikitos-ledger) 🧙‍♂️
+### [Nikito's Ledger](https://github.com/pndias/nikitos-ledger) 🧙♂️
 Automated D&D 5.5 character sheet generator — describe a character in plain text, get a full sheet instantly.
 - **Prompt-to-Sheet:** Natural language → complete 5.5e character via Gemini AI
 - **NPC Generator:** DM tool with roleplaying notes, secret motivations, and plot hooks
@@ -57,6 +57,14 @@ Geopolitical monitoring platform with AI-powered OSINT analysis and interactive 
 - **Frontend:** React + TypeScript + Leaflet.js with real-time filtering (Military, Political, Economic)
 - **AI Agents:** CrewAI + LangChain orchestrating OSINT and extraction agents with local Ollama
 - **Infra:** 7 Docker containers, Docker Swarm with replicas and rolling updates, Nginx reverse proxy
+
+### [Gepetto Chef](https://github.com/pndias/gepetto-chef) 🤖🍳
+Multi-agent culinary assistant — type ingredients or a craving, get a complete recipe with nutritional analysis.
+- **Multi-Agent Orchestration:** Coordinator dispatches to Recipe Agent + Nutrition Agent (Google Gemini 2.5 Flash)
+- **Structured Output:** Pydantic-validated JSON schema with ingredients, substitutions, step-by-step instructions, and macros
+- **Backend:** Python + FastAPI + Google Gemini API with async retry logic
+- **Frontend:** React + TypeScript + Tailwind CSS + Vite
+- Designed for solo cooks — single-serving portions with beginner-friendly tips
 
 
 
